@@ -6,7 +6,7 @@
 - **Go**: Install Go 1.20+ (No Need More).
 - **Token**: Grab a Discord bot token from https://discord.com/developers.
 - **Guild ID**: Get your server’s ID (right-click server > Copy ID).
-- **Run**: Download [`LeanNuker.exe`](https://github.com/OptyWine/LeanNuker/releases/download/1.0.0/LeanNuker.exe) and Run it. Enter token and guild ID when prompted.
+- **Run**: Download [`LeanNuker.exe`](https://github.com/OptyWine/LeanNuker/releases/latest/download/LeanNuker.exe) and Run it. Enter token and guild ID when prompted.
 - **JavaScript?**: Nah, this is pure Go, but enable JavaScript in your browser if you’re testing API calls manually (e.g., via Discord’s dev tools). 🖥️
 
 ## Features
